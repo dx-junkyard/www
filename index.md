@@ -6,16 +6,17 @@
 
 ## ■ 参加中のプロジェクト
 ### [東京オープンデータハッカソン2023](https://odhackathon.metro.tokyo.lg.jp/)  
-東京都が主催するオープンデータを活用して社会課題を解決するハッカソンです。
-私たちはデータを作る人と使う人を繋げる [OpenData-Bridge] プロジェクトを提案中です。  
-[OpenData-Bridge](https://github.com/dx-junkyard/OpenDataHackathon2023)
+東京都が主催するオープンデータを活用して社会課題を解決するハッカソンです。  
+私たちはデータを作る人と使う人を繋げる [OpenData-Bridge](https://github.com/dx-junkyard/OpenDataHackathon2023)   プロジェクトを提案中です。  
+[![ODB Pop](./images/odb_22Oct2023_pop.png)](https://github.com/dx-junkyard/OpenDataHackathon2023)  
 
 無事に一次審査である First Stage を突破し、次は10月22日の Final Stage です。
-ぜひ、オンライン上でご視聴ください。  
-[Final Stage@Peatix](https://odhackathon-tokyo-2023-final.peatix.com/)
+ぜひ、オンライン上でご視聴ください。
+[Final Stage@Peatix](https://odhackathon-tokyo-2023-final.peatix.com/)  
 ![Final Stage banner](https://cdn.peatix.com/event/3702446/cover-PM1wnQRNqYpfOtrwaD6GgTanTu8Mt2eM.png)
 
 ## ■ 過去に参加したプロジェクト
+2021年ごろから複数参加しております。
 
 ### マイナセーフティ
 [できること]  
@@ -69,6 +70,9 @@ https://github.com/dx-junkyard/rpa-example
 Y.Saito  
 Yamamoto  
 [Mitsuo-Koikawa](https://github.com/Mitsuo-Koikawa)
+
+## ■ 参加方法
+GitHub上でご連絡をお願いいたします。
 
 ## ■ 協力団体
 - CodeForJapan 武蔵野/三鷹  
