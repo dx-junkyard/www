@@ -1,23 +1,21 @@
 # dx-junkyardのページ
-日本全国の有志メンバーが集い、
-様々なハッカソンなどに挑戦するオンラインチームです。  
+日本全国の有志メンバーが集い、様々なハッカソンなどに挑戦中です。  
 以下の GitHub を中心に活動しております。
 
-https://github.com/dx-junkyard
+[https://github.com/dx-junkyard](https://github.com/dx-junkyard)
 
-
-## 参加中のプロジェクト
+## ■ 参加中のプロジェクト
 ### [東京オープンデータハッカソン2023](https://odhackathon.metro.tokyo.lg.jp/)  
 東京都が主催するオープンデータを活用して社会課題を解決するハッカソンです。
-私たちは下記のデータを作る人と使う人を繋げるプロジェクトを提案中です。  
+私たちはデータを作る人と使う人を繋げる [OpenData-Bridge] プロジェクトを提案中です。  
 [OpenData-Bridge](https://github.com/dx-junkyard/OpenDataHackathon2023)
 
 無事に一次審査である First Stage を突破し、次は10月22日の Final Stage です。
-ぜひ、オンライン上でご視聴ください。
+ぜひ、オンライン上でご視聴ください。  
 [Final Stage@Peatix](https://odhackathon-tokyo-2023-final.peatix.com/)
 ![Final Stage banner](https://cdn.peatix.com/event/3702446/cover-PM1wnQRNqYpfOtrwaD6GgTanTu8Mt2eM.png)
 
-## 過去に参加したプロジェクト
+## ■ 過去に参加したプロジェクト
 
 ### マイナセーフティ
 [できること]  
@@ -64,13 +62,13 @@ https://github.com/dx-junkyard/location-service
 https://github.com/dx-junkyard/rpa-example
 
 
-## メンバー
+## ■ メンバー
 もっちゃん  
 [urashin](https://github.com/dx-junkyard)  
 [FooQoo](https://github.com/FooQoo)  
 [Mitsuo-Koikawa](https://github.com/Mitsuo-Koikawa)
 
-## 協力団体
+## ■ 協力団体
 - CodeForJapan 武蔵野/三鷹  
 - Vizzie + オープンデータスゴイ  
 
