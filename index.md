@@ -66,6 +66,8 @@ https://github.com/dx-junkyard/rpa-example
 もっちゃん  
 [urashin](https://github.com/dx-junkyard)  
 [FooQoo](https://github.com/FooQoo)  
+Y.Saito  
+Yamamoto  
 [Mitsuo-Koikawa](https://github.com/Mitsuo-Koikawa)
 
 ## ■ 協力団体
